@@ -1,0 +1,12 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../tweetsharp/src/net40/TweetSharp.Next/Serialization/SerializerBase.Xml.cs">
+    <Files>
+      <File FileName="../../tweetsharp/src/net40/TweetSharp.Next/Serialization/SerializerBase.Xml.cs" Line="63" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
