@@ -1,11 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QTRecorder", "QTRecorder\QTRecorder.csproj", "{87EF4C6C-8DCF-4445-878B-17E3F82F7ABF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hammock.Mono", "..\..\hammock\src\mono\Hammock.Mono\Hammock.Mono.csproj", "{C8371692-DA90-4437-BCB7-A5A2EF37B095}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetSharp.Mono", "..\..\tweetsharp\src\mono\TweetSharp.Next.Mono\TweetSharp.Mono.csproj", "{46B07B5B-DEDD-4609-AD5E-CCAF8D8B607E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocSnap.Tests", "SocSnap.Tests\SocSnap.Tests.csproj", "{97ACFE1A-3393-4FA6-A109-66AF449CC443}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,7 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
+		Default|Any CPU = Default|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{46B07B5B-DEDD-4609-AD5E-CCAF8D8B607E}.Debug|Any CPU.ActiveCfg = Debug|x86
@@ -27,6 +30,16 @@ Global
 		{87EF4C6C-8DCF-4445-878B-17E3F82F7ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87EF4C6C-8DCF-4445-878B-17E3F82F7ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87EF4C6C-8DCF-4445-878B-17E3F82F7ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97ACFE1A-3393-4FA6-A109-66AF449CC443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97ACFE1A-3393-4FA6-A109-66AF449CC443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97ACFE1A-3393-4FA6-A109-66AF449CC443}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{97ACFE1A-3393-4FA6-A109-66AF449CC443}.Debug|x86.Build.0 = Debug|Any CPU
+		{97ACFE1A-3393-4FA6-A109-66AF449CC443}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{97ACFE1A-3393-4FA6-A109-66AF449CC443}.Default|Any CPU.Build.0 = Debug|Any CPU
+		{97ACFE1A-3393-4FA6-A109-66AF449CC443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97ACFE1A-3393-4FA6-A109-66AF449CC443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97ACFE1A-3393-4FA6-A109-66AF449CC443}.Release|x86.ActiveCfg = Release|Any CPU
+		{97ACFE1A-3393-4FA6-A109-66AF449CC443}.Release|x86.Build.0 = Release|Any CPU
 		{C8371692-DA90-4437-BCB7-A5A2EF37B095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C8371692-DA90-4437-BCB7-A5A2EF37B095}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8371692-DA90-4437-BCB7-A5A2EF37B095}.Release|Any CPU.ActiveCfg = Release|Any CPU
