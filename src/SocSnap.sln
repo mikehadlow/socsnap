@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetSharp.Mono", "..\..\tw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocSnap.Tests", "SocSnap.Tests\SocSnap.Tests.csproj", "{97ACFE1A-3393-4FA6-A109-66AF449CC443}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocSnap.UserTokenGrabber", "SocSnap.UserTokenGrabber\SocSnap.UserTokenGrabber.csproj", "{F908CC70-3877-4FFD-9494-2A1098D66528}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,16 @@ Global
 		{C8371692-DA90-4437-BCB7-A5A2EF37B095}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8371692-DA90-4437-BCB7-A5A2EF37B095}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8371692-DA90-4437-BCB7-A5A2EF37B095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F908CC70-3877-4FFD-9494-2A1098D66528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F908CC70-3877-4FFD-9494-2A1098D66528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F908CC70-3877-4FFD-9494-2A1098D66528}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F908CC70-3877-4FFD-9494-2A1098D66528}.Debug|x86.Build.0 = Debug|Any CPU
+		{F908CC70-3877-4FFD-9494-2A1098D66528}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{F908CC70-3877-4FFD-9494-2A1098D66528}.Default|Any CPU.Build.0 = Debug|Any CPU
+		{F908CC70-3877-4FFD-9494-2A1098D66528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F908CC70-3877-4FFD-9494-2A1098D66528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F908CC70-3877-4FFD-9494-2A1098D66528}.Release|x86.ActiveCfg = Release|Any CPU
+		{F908CC70-3877-4FFD-9494-2A1098D66528}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = QTRecorder\QTRecorder.csproj
